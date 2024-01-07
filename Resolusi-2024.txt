@@ -2,3 +2,4 @@ Resolusi 2024
 - Bisa deploy model machine learning saya
 - Bisa mahir dalam cloud computing
 - Mempercantik Linkedin
+- Progress skripsi up to 50%
