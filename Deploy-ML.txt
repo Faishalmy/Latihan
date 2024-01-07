@@ -1,6 +1,6 @@
 Langkah-langkah strategi dalam mempelajari deploy ML
 - Perdalam terlebih dahulu konsep dari machine learning
 - Pelajari konsep tentang transfer learning
-- Praktikan apa yang udah dipelajari untuk meningkatkan akurasi model
+- Tingkatkan akurasi model dengan transfer learning
 - Pelajari Deploy ML di Coursera 
 - Lakukan deploy dengan pengetahuan yang ada
