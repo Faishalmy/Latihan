@@ -1,0 +1,4 @@
+Langkah-langkah
+- Perbaiki model dengan meningkatkan akurasi dengan menggunakan transfer learning
+- Pelajari Deploy ML di Coursera 
+- Lakukan deploy dengan pengetahuan yang ada
